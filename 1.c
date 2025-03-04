@@ -12,3 +12,11 @@ int main() {
 
     return 0;
 }
+
+
+
+
+SAMPLE OUTPUT :
+Integer: 10
+Float: 3.14
+Character: A
